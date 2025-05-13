@@ -1,0 +1,1 @@
+Arquivo de teste para forçar commit e garantir histórico no repositório.
